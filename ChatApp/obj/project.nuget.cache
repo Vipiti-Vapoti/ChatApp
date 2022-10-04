@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "vGEZORRggggXdE3E0WR8h9XyjagUKtLLTqt8J2X45GtUzmryyitRFNbVzT4z6soGMyDslVkQRt1e8Oivl/U8nw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\hallgato\\source\\repos\\ChatApp\\ChatApp\\ChatApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Swashbuckle.AspNetCore. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
