@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vGEZORRggggXdE3E0WR8h9XyjagUKtLLTqt8J2X45GtUzmryyitRFNbVzT4z6soGMyDslVkQRt1e8Oivl/U8nw==",
+  "dgSpecHash": "lLqQuwGcx9f+8FJUclZhlyYtj61lIQXjgz5Iw84ABhB5L/yFXhMG6XRUyDbFFQLt6LD536bMfe9HCU5ji/fGrA==",
   "success": false,
-  "projectFilePath": "C:\\Users\\hallgato\\source\\repos\\ChatApp\\ChatApp\\ChatApp.csproj",
+  "projectFilePath": "C:\\Users\\hallgato\\source\\repos\\ChatApp\\ChatApplication\\ChatApp\\ChatApp.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {
